@@ -1,0 +1,13 @@
+{提交到了本地的仓库}
+Git init 初始化
+Git status 查看文件的状态红色的是没有被修改的
+（先生成一个忽略的文件.gitignore）
+Git add .是把所有的文件放在暂存区
+git status. 再次查看状态会显示不同的颜色
+Git commit -m "init my project"
+
+账号767791602
+密码wang767791602
+
+
+vue-resouce -S是在vue中发起ajax请求数据的loader
